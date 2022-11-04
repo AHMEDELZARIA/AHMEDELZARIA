@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmed 
-- I like to code and expand my knowledge of programming
+- I am an Engineerign 1 studnet
 - Here you will find what I am currently working on
 - This can be problems that I have solved, projects, implementation of data structures and algorithms, and more!
-- If you would like to connect, my email is aelzaria@gmail.com
+- If you would like to connect, my email is elzariaahmed@gmail.com
 - Thanks for taking the time to view my work
 
 <!---
