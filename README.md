@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Ahmed 
-- I am an Engineerign 1 studnet
-- Here you will find what I am currently working on
-- This can be problems that I have solved, projects, implementation of data structures and algorithms, and more!
+- 👋 Hi, I’m Ahmed Elzaria
+- I am an Engineering 1 student at McMaster University
+- I plan on majoring in software engineering and management come second year
+- Here you will find wsome projects I have worked on and currently working on
 - If you would like to connect, my email is elzariaahmed@gmail.com
-- Thanks for taking the time to view my work
+- Thanks for taking the time to view my work!
 
 <!---
 AHMEDELZARIA/AHMEDELZARIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
