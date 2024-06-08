@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Up To
 * Research intern at McSCert working on AI/Natural Language Processing in mobile applications
-* Building a project
+* Building my personal AI assistant
 
 ## 🌐 Connect with me:  &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elzaria) 
 
