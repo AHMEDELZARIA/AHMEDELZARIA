@@ -3,9 +3,7 @@
 👋 Hi there! I'm an incoming third-year Software Engineering COOP student at McMaster University. I'm passionate about machine learning, AI, and full-stack development. I love bringing ideas to life through code. <br><br>💻 **Full-Stack Enthusiast:** Whether it's designing and building beautiful UIs or crafting the backend logic for robust applications, I enjoy every part of the software development lifecycle. I'm driven by a curiosity to understand how things work and a desire to create seamless, user-friendly experiences. <br><br>🚀 **Passion for Innovation:** I thrive on tackling challenging problems and continually expanding my knowledge. From experimenting with new frameworks and tools to diving deep into software research, I'm always eager to learn and grow.<br><br>🌐 **Team Player:** Collaboration and communication are at the heart of great software. I value working in teams where we can share ideas, learn from each other, and build something amazing together.
 
 ## 🚀 What I'm Up To
-* Research intern at McSCert working on AI/NLP in mobile applications
-* Building my personal AI assistant
-* Building my personal website
+* Remote Research intern at UQAM working on AI/NLP in mobile applications
 
 ## 🌐 Connect with me:  &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elzaria) 
 
