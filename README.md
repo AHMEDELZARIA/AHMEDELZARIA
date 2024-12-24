@@ -1,4 +1,4 @@
-# Hello, I am Ahmed Elzaria 👋🏼
+# Welcome 👋🏼
 I'm a software engineering student with a passion for building impactful and efficient solutions across the tech stack. From crafting AI-powered applications to optimizing code performance, I aim to deliver meaningful software that solves real-world problems.<br><br>My work spans scalable APIs, NLP models, and compiler optimization tools, reflecting a balance of technical depth and creative problem-solving. I value collaboration, continuous learning, and bringing a positive, adaptive mindset to every project.<br><br>Feel free to explore my projects!
 
 # 💻 Tech Stack:
